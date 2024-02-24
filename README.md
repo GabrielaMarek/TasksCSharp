@@ -1,6 +1,5 @@
 # C# Projects Overview
 
-
 This repository contains three C# projects demonstrating various concepts such as classes, inheritance, polymorphism, abstract classes, interfaces, and more. Each project addresses a specific task to showcase different aspects of C# programming.
 
 ## Project 1: Library Management System
